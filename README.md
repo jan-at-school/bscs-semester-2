@@ -4,4 +4,4 @@
 
 ## Quick Links
 
-* 
+* [OOP](https://github.com/jan-at-school/bscs-semester-2/tree/master/Object%20Oriented%20Programming)
